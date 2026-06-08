@@ -1,0 +1,5 @@
+package com.springboot.ems.mapper;
+
+public class EmployeeMapper {
+
+}
