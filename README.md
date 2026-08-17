@@ -19,6 +19,7 @@ A full-stack Employee Management System built using React, Spring Boot, and MySQ
 ☁️ Cloud database and application deployment
 🔐 Environment-based configuration
 🏗️ Project Structure
+
 Employee-Management-System/
 │
 ├── 📁 ems-backend/
@@ -39,6 +40,9 @@ Employee-Management-System/
 │   └── .env
 │
 └── 📄 README.md
+
+
+
 🔗 API Endpoints
 Method	Endpoint	Description
 🟢 GET	/api/employees	Get all employees
