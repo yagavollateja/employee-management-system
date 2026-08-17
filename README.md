@@ -81,6 +81,9 @@ A full-stack **Employee Management System** built using **React, Spring Boot, an
 
 https://employee-management-system-production-efc7.up.railway.app
 
+### Frontend URL
+https://ems-frontend-production-f3f7.up.railway.app/employees
+
 ### Employee API
 
 https://employee-management-system-production-efc7.up.railway.app/api/employees
