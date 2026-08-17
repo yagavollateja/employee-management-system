@@ -9,8 +9,8 @@ public class WebConfig implements WebMvcConfigurer {
 
     @Override
     public void addCorsMappings(CorsRegistry registry) {
-        registry.addMapping("/api/**")
-                .allowedOrigins("*") // Replace "*" with your Railway frontend domain in production
+        registry.addMapping("/**")
+                .allowedOrigins("*") // Or replace "*" with "https://<your-frontend>.up.railway.app"
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                 .allowedHeaders("*");
     }
